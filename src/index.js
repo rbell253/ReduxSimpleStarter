@@ -1,6 +1,8 @@
 Import React from 'react';
 Import ReactDOM from 'react-dom';
 
+Import SearchBar from 'search_bar';
+
 // declare our youtube api key
 const API_KEY = ''
 
